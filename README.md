@@ -6,13 +6,19 @@ I build an R2-D2 in Spain, as a member of [Astromech Spain](https://www.astromec
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" align="center" valign="top">
       <a href="https://github.com/BeskarCode/ROS2D2"><img src="assets/ros2d2.svg" width="400" alt="ROS2D2"></a><br>
       A ROS 2 brain for an R2-D2 running ShadowMD: a Raspberry Pi adds the senses (cameras, voice, lidar) and the Mega keeps the motors, sounds and lights. The controller always wins.
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/BeskarCode/ShadowMDLite"><img src="assets/shadowmd-lite.svg" width="400" alt="ShadowMD Lite"></a><br>
       A fork of the original Shadow MD (by Vint43, built on KnightShade's SHADOW), cleaned up for the Arduino Mega ADK, with PS3 Navs or Joy-Cons, MarcDuino / BetterDuino and AstroPixels Plus. Comes with a web console to calibrate panels and holos, find your parts and flash the Mega from the browser.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/BeskarCode/SHADOW_MD_EEBEL"><img src="assets/shadow-md-classic.svg" width="400" alt="Shadow MD classic"></a><br>
+      The classic Shadow MD with three MarcDuino boards, plus optional PC forwarding (for the web console) and ROS2D2 support. Off by default: it builds exactly as before.
     </td>
   </tr>
   <tr>
@@ -21,8 +27,8 @@ I build an R2-D2 in Spain, as a member of [Astromech Spain](https://www.astromec
       R2-D2's dome turns to look at you: a camera on the dome finds the nearest face and a Raspberry Pi tells the Mega how fast to turn.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/BeskarCode/SHADOW_MD_EEBEL"><img src="assets/shadow-md-classic.svg" width="400" alt="Shadow MD classic"></a><br>
-      The classic Shadow MD with three MarcDuino boards, plus optional PC forwarding (for the web console) and ROS2D2 support. Off by default: it builds exactly as before.
+      <a href="https://github.com/BeskarCode/padawanJoycon"><img src="assets/padawan-joycon.svg" width="400" alt="Padawan Joy-Con"></a><br>
+      Padawan360 remote control, with Nintendo Switch Joy-Cons instead of the Xbox controller.
     </td>
   </tr>
   <tr>
@@ -35,20 +41,22 @@ I build an R2-D2 in Spain, as a member of [Astromech Spain](https://www.astromec
       Firmware for the AstroPixels boards (logics, PSIs and holo lights), with holo and ReelTwo commands that also work from the Shadow MD controller.
     </td>
   </tr>
+</table>
+
+### Communities
+
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/BeskarCode/padawanJoycon"><img src="assets/padawan-joycon.svg" width="400" alt="Padawan Joy-Con"></a><br>
-      Padawan360 remote control, with Nintendo Switch Joy-Cons instead of the Xbox controller.
-    </td>
     <td width="50%" valign="top">
       <a href="https://www.astromechspain.com/"><img src="assets/astromech-spain.svg" width="400" alt="Astromech Spain"></a><br>
       The Spanish astromech builders' club. Be happy and build droids.
     </td>
+    <td width="50%" valign="top">
+      <a href="https://astromech.net/forums/"><img src="assets/astromech-net.svg" width="400" alt="Astromech.net"></a><br>
+      The R2 Builders Club, where I post my work:
+      <a href="https://astromech.net/forums/showthread.php?47005-R2D2-by-NandoMadrid">my R2-D2 build</a>,
+      <a href="https://astromech.net/forums/showthread.php?47015">ShadowMD Lite</a> and
+      <a href="https://astromech.net/forums/showthread.php?47099">ROS2D2</a>.
+    </td>
   </tr>
 </table>
-
-### On Astromech.net
-
-- [R2D2 by NandoMadrid](https://astromech.net/forums/showthread.php?47005-R2D2-by-NandoMadrid): the build thread of my R2-D2
-- [ShadowMD Lite](https://astromech.net/forums/showthread.php?47015): the sketch and its web console
-- [ROS2D2](https://astromech.net/forums/showthread.php?47099): the ROS 2 brain
