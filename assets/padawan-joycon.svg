@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="96" viewBox="0 0 440 96" role="img" aria-label="Padawan Joy-Con">
+  <title>Padawan Joy-Con</title>
+  <desc>Padawan Joy-Con logo</desc>
+  <defs>
+    <linearGradient id="blue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#79b8ff"/>
+      <stop offset="100%" stop-color="#388bfd"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.75" y="0.75" width="438.5" height="94.5" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <g transform="translate(20 18)">
+    <rect width="60" height="60" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.25"/>
+    <rect x="11" y="10" width="17" height="40" rx="8" fill="#0ab9e6"/>
+    <rect x="32" y="10" width="17" height="40" rx="8" fill="#ff3c28"/>
+    <circle cx="19.5" cy="22" r="4" fill="#161b22"/>
+    <circle cx="40.5" cy="36" r="4" fill="#161b22"/>
+  </g>
+  <text x="96" y="46" fill="#e6edf3" font-family="Segoe UI,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="25" font-weight="700">Padawan</text>
+  <text x="96" y="70" fill="#8b949e" font-family="Segoe UI,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="13.5">Padawan360 with Joy-Cons</text>
+  <rect x="345" y="16" width="77" height="26" rx="6" fill="#58a6ff" fill-opacity="0.14" stroke="#58a6ff" stroke-width="1.25"/>
+  <text x="383.5" y="34" fill="#58a6ff" font-family="Segoe UI,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" text-anchor="middle">JOY-CON</text>
+</svg>
