@@ -12,7 +12,7 @@ I build an R2-D2 in Spain, as a member of [Astromech Spain](https://www.astromec
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/BeskarCode/ShadowMDLite"><img src="assets/shadowmd-lite.svg" width="400" alt="ShadowMD Lite"></a><br>
-      A cleaned-up Shadow MD for the Arduino Mega ADK, with PS3 Navs or Joy-Cons, MarcDuino / BetterDuino and AstroPixels Plus. Comes with a web console to calibrate panels and holos, find your parts and flash the Mega from the browser.
+      A fork of the original Shadow MD (by Vint43, built on KnightShade's SHADOW), cleaned up for the Arduino Mega ADK, with PS3 Navs or Joy-Cons, MarcDuino / BetterDuino and AstroPixels Plus. Comes with a web console to calibrate panels and holos, find your parts and flash the Mega from the browser.
     </td>
   </tr>
   <tr>
